@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AlfaSoft.props" />
+</Project>
